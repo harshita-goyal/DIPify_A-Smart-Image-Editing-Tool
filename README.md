@@ -59,11 +59,11 @@ DIPFy/
 
 <!-- ?🚀 Installation & Setup -->
 - Clone the repository:
-- git clone https://github.com/your-username/DIPFy.gitcd DIPFy
+- git clone (https://github.com/harshita-goyal/DIPify_A-Smart-Image-Editing-Tool)
 <!--* Install dependencies: -->
-- pip install opencv-python numpy scikit-learn
+- pip3 install opencv-python numpy scikit-learn
 - Run the project:
-- python DIPFy.py
+- python3 main_project.py
 
 
 <!--? SCREENSHOTS -->
