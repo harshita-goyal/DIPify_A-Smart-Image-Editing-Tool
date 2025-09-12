@@ -50,7 +50,6 @@ DIPFy is a Python-based project developed during my DRDO internship. It focuses 
 - OS
 
 <!--! 📂 Project Structure -->
-DIPFy/
 │── images/                  # Sample input images
 │── videos/                  # Sample videos
 │── main_project.py          # Main GUI application (Tkinter + OpenCV)
