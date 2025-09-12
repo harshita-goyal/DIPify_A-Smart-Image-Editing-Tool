@@ -64,11 +64,7 @@ DIPFy is a Python-based project developed during my DRDO internship. It focuses 
 - Run the project:
 - python3 main_project.py
 
-
 <!--? SCREENSHOTS -->
-(ADD GUI Screenshots...)
-
-
 
 <!--? 📌 Conclusion -->
 
